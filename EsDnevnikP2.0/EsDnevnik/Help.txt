@@ -1,0 +1,8 @@
+﻿ /*private void dataGridView1_CurrentCellChanged(object sender, EventArgs e)
+        {
+            int indeks = dataGridView1.CurrentRow.Index;
+            textBox1.Text = Convert.ToString(dataGridView1.Rows[indeks].Cells["Id"].Value);
+            textBox2.Text = Convert.ToString(dataGridView1.Rows[indeks].Cells["Ime_i_prezime"].Value);
+            textBox3.Text = Convert.ToString(dataGridView1.Rows[indeks].Cells["Odeljenje"].Value);
+            textBox4.Text = Convert.ToString(dataGridView1.Rows[indeks].Cells["Smer"].Value);
+        }*/
